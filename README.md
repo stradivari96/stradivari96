@@ -6,6 +6,6 @@ Hi 👋, I'm Xiang, a full stack engineer living in Madrid, Spain.
 * Discrete optimization
 
 ### Hates
-* JavaScript
+* JavaScript (yep)
 * Working with propietary technology (looking at you, Oracle)
 * Dependency hell
