@@ -1,11 +1,11 @@
-Hi 👋, I'm Xiang, a full stack engineer living in Madrid, Spain.
+Hi 👋, I'm Xiang, a software engineer living in Madrid, Spain.
 
 ### Likes
-* JavaScript
+* TypeScript
 * Python
 * Discrete optimization
 
 ### Hates
 * JavaScript
-* Working with propietary technology (looking at you, Oracle)
 * Dependency hell
+* Propietary technology
